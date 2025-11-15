@@ -11,6 +11,7 @@ It predicts the most suitable crop based on environmental parameters such as:
 - Humidity
 - pH
 - Rainfall
+  
 This project helps farmers and researchers identify the best crop to grow for maximum yield.
 
 ## 🚀 Features
