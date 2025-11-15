@@ -1,7 +1,6 @@
 # 🌾 Crop Prediction System
 
 ## 📌 Overview
-
 The Crop Prediction System is a Machine Learning–powered web application built using Python, Scikit-learn, and Streamlit.
 It predicts the most suitable crop based on environmental parameters such as:
 - Nitrogen
