@@ -1,16 +1,17 @@
 # 🌾 Crop Prediction System
 
 ## 📌 Overview
+
 The Crop Prediction System is a Machine Learning–powered web application built using Python, Scikit-learn, and Streamlit.
 It predicts the most suitable crop based on environmental parameters such as:
-      - Nitrogen
-      - Phosphorus
-      - Potassium
-      - Temperature
-      - Humidity
-      - pH
-      - Rainfall
-    This project helps farmers and researchers identify the best crop to grow for maximum yield.
+- Nitrogen
+- Phosphorus
+- Potassium
+- Temperature
+- Humidity
+- pH
+- Rainfall
+This project helps farmers and researchers identify the best crop to grow for maximum yield.
 
 ## 🚀 Features
   - ✔ User-friendly Streamlit interface
